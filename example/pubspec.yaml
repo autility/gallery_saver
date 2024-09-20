@@ -3,12 +3,12 @@ description: Demonstrates how to use the gallery_saver plugin.
 publish_to: 'none'
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=3.0.0"
 
 dependencies:
   image_picker: ^0.8.4+2
   path_provider: ^2.0.1
-  http: ^0.13.0
+  http: ^1.2.2
 
   flutter:
     sdk: flutter
